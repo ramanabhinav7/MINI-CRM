@@ -1,0 +1,35 @@
+# Node.js dependencies
+/node_modules
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+dev.env
+
+# OS-specific files
+.DS_Store       # macOS
+Thumbs.db       # Windows
+
+# Build artifacts
+/dist
+/build
+
+# IDE-specific files
+.idea           # JetBrains IDEs (e.g., WebStorm, PhpStorm)
+.vscode         # Visual Studio Code
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Yarn lock file (optional, depending on your package manager)
+yarn-error.log
+
+# Miscellaneous
+*.tgz           # tarballs
+*.bak           # backup files
